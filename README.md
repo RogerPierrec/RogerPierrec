@@ -1,6 +1,6 @@
 # 🧑🏼‍💻 Roger Pierre
 
-**🎯 `Backend Developer em Formação` | Java**
+**🎯 `Desenvolvedor Back-end em formação | Java & APIs REST`**
 
 Me chamo Roger Pierre, tenho 19 anos e sou natural de Salvador, BA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Instagram "[Dev da Roça](https://www.instagram.com/dev.daroca/)", onde eu mostro meu dia a dia e posto minha evolução com a programação.
 
@@ -51,6 +51,16 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-origi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+/>
+          
 
 <br/>
 <br/>
